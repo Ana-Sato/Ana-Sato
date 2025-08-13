@@ -1,30 +1,50 @@
-# Olá 👋🏽, sou a  Ana!!!
-<p width="300px">Desenvolvedora em construção 🚀, uma entusiasta da tecnologia em busca de transformar minha paixão por programação em uma carreira sólida. Atualmente, faço Análise e Desenvolvimento de Sistemas, estou comprometida em aprender continuamente, enfrentando desafios de maneira criativa e construindo uma base sólida de habilidades técnicas.</p>
 
 
-<img align="right" width="300" src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?w=740&t=st=1692896262~exp=1692896862~hmac=b803cecb7e2488feb567133a3ca4909e2813a3f6f70a9ae3f673ba33de675162" />
+<h1 align="center">Oiee 👋, eu sou a Ana!</h1>
 
+<p align="center">
+Desenvolvedora em construção 🚀 | Apaixonada por tecnologia e sempre buscando novos desafios.  
+Atualmente estudando Análise e Desenvolvimento de Sistemas, com foco em Front-end e aplicações web modernas.
+</p>
 
-## Tecnologias
-![HTML5](https://img.shields.io/badge/HTML5-ff7f00?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-264CE4?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-f6d816?style=for-the-badge&logo=javascript&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![Angular](https://img.shields.io/badge/-Angular-d32f2f?style=for-the-badge&logo=angular&logoColor=fff)&nbsp;
+---
 
-&nbsp;
-## 🔗 Conecte-se comigo
-[![Dio](https://img.shields.io/badge/Meu%20Perfil%20na%20Dio-5c4dce?style=for-the-badge&logo=DigitalInovationOne&logoColor=5c4dce)](https://www.dio.me/users/anasato27)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Ana-Sato)
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/ana-sato-aa79552a0/)
+## 🚀 Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,github,figma,git" />
+</p>
 
-&nbsp;
-## GitHub Stats
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ana-Sato&layout=compact&bg_color=f4eaf5&border_color=5c4dce&title_color=5c4dce&text_color=000"/>
-<img loading="lazy" height="180em" src="https://streak-stats.demolab.com/?user=Ana-Sato&theme=buefy&background=f4eaf5&border=5c4dce&dates=000"/>
+---
+
+## 🌎 Conecte-se comigo
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/DIO-8A2BE2?style=for-the-badge&logo=dio&logoColor=white"/></a>
+  <a href="https://github.com/Ana-Sato"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <!-- Stats -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ana-Sato&show_icons=true&bg_color=f4eaf5&title_color=5c4dce&text_color=000000&icon_color=5c4dce&border_color=5c4dce" />
+  
+  <!-- Streak (robusto) -->
+  <img height="180" src="https://streak-stats.demolab.com/?user=Ana-Sato&theme=buefy&background=f4eaf5&border=5c4dce&dates=000000"/>
 </div>
 
+<div align="center">
+  <!-- Top Langs -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Sato&layout=compact&bg_color=f4eaf5&title_color=5c4dce&text_color=000000&border_color=5c4dce" />
+</div>
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ana-Sato&color=5c4dce" alt="Visualizações no perfil" />
+</p>
 
 
 
